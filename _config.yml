@@ -1,4 +1,4 @@
-﻿# Site settings
+# Site settings
 title: Susie's Blog
 SEOTitle: Susie的博客 | Susie's Blog
 header-img: img/post-bg-desk.jpg
@@ -17,7 +17,7 @@ sidebar-avatar: /img/life-2018.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: false
+RSS: False
  weibo_username:     @Susie_我是祖国的小红花
 zhihu_username:     沈雨薇
 github_username:    yuweishen
@@ -92,7 +92,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
+service-worker: True
 
 
 
