@@ -5,13 +5,13 @@ header-img: img/post-bg-desk.jpg
 email: shenyuwei981213@gmail.com
 description: "我偏要勉强"
 keyword: "Susie's Blog, 沈雨薇的博客, Statistics, R, Python"
-url: "http://yuweishen.github.io"          # your host, for absolute URL
+url: "http://yuweishen.github.io/jekyll"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/YuweiShen/yuweishen.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Done is better than perfect"
 sidebar-avatar: /img/life-2018.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
