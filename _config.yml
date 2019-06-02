@@ -18,8 +18,8 @@ sidebar-avatar: /img/life-2018.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: False
- weibo_username:    Susie_我是祖国的小红花
-zhihu_username:     沈雨薇
+weibo_username:    "Susie_我是祖国的小红花"
+zhihu_username:     "沈雨薇"
 github_username:    yuweishen
 facebook_username:  
 jianshu_username:   
