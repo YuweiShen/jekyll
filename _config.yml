@@ -1,4 +1,4 @@
-﻿# Site settings
+# Site settings
 title: Susie's Blog
 SEOTitle: Susie的博客 | Susie's Blog
 header-img: img/post-bg-desk.jpg
@@ -11,19 +11,30 @@ github_repo: "https://github.com/YuweiShen/yuweishen.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
+<<<<<<< HEAD
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+=======
+sidebar-about-description: "Done is better than perfect"
+sidebar-avatar: /img/life-2018.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+>>>>>>> fe17305d837745bd7e01147807101d0b7ad1d82e
 
 
 
 # SNS settings
+<<<<<<< HEAD
 RSS: false
 weibo_username:    1633258245
 zhihu_username:     chen-yu-wei-64-76
+=======
+RSS: False
+weibo_username:    "Susie_我是祖国的小红花"
+zhihu_username:     "沈雨薇"
+>>>>>>> fe17305d837745bd7e01147807101d0b7ad1d82e
 github_username:    yuweishen
 facebook_username:  
 jianshu_username:   
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
@@ -92,7 +103,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
+service-worker: True
 
 
 
